@@ -1,0 +1,145 @@
+body {
+	margin:0px;
+	font-family: sans-serif;
+}
+
+h1 {
+	text-align:center;
+	color: #ff9800;
+	font-size: 4em;
+}
+
+h3 {
+	text-align: center;
+	font-size: 3em;
+}
+
+h5 {
+	text-align: center;
+	font-size: 2em;
+}
+
+p, li, a, th, td {
+	font-size: 1.5em;
+}
+
+a:link, a:visited{
+	color:#686868;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #039BE5;
+}
+	
+.nav {
+	width:100%; 
+	height:10vh; 
+	padding: 1% 0;
+	background-color: #29b6f6;
+	text-align: right;
+}
+
+.nav h2 {
+	float: left;
+	font-size: 2em;
+	margin: 10px;
+}
+
+.nav li{
+	font-size: 10px;
+	padding: 5px;
+	/*border: solid #686868;*/
+	list-style-type: none;
+	display: inline;
+	margin-right: 10px;
+}
+
+.intro img {
+	width: 80%;
+	border-radius: 50%;
+	border: solid 5px rgba(10, 10, 0, 0.7);
+	margin: 50px 0px;
+}
+
+.button {
+	width: 200px;
+	height: 50px; 
+	text-align: center; 
+	font-size: 1.4em; 
+	padding: 8px;
+	border-radius: 3px; 
+	box-shadow: #686868 2px 2px 2px; 
+	background-color: #03a9f4;
+	margin-bottom: 50px;
+}
+
+.aboutc {
+	background-color: #BBDEFB;
+	padding: 10px 0 50px 0;
+}
+.aboutc h3{
+ color:brown;
+}
+
+.about {
+	width: 75%; 
+	margin: auto;
+}
+
+.skillc {
+	background-color: #EEEEEE;
+	padding: 10px 0 50px 0;
+         
+}
+.skillc h3
+{color:green;
+}
+
+.skills {
+	width:75%;
+        
+	margin: auto; 
+	display: block; 
+	margin-bottom: 50px;
+	background-color: #EEEEEE;
+}
+
+.social{
+	width: 100%;
+	padding: 10px;
+	text-align: center;
+        color:red;
+	background-color: #B2FF59;
+	padding: 10px 0 50px 0;
+}
+
+.social a {
+	padding-right: 25px;
+}
+
+.qualification{
+	width: 100%;
+	padding-bottom: 50px;
+}
+#tab {
+	margin: auto;
+	background-color:yellow;
+	color:red;
+	text-align: center;
+}
+
+#tab td {
+	padding: 5px 5px;
+}
+
+.footer {
+	width:100%;
+	background-color: #EEEEEE;
+	padding: 10px 0 50px 0;
+}
+
+.footer p {
+	text-align: center;
+}
+ 

@@ -1,0 +1,97 @@
+<doctype html>
+<html>
+<head>
+<title>
+my webpage</title>
+</head>
+
+
+<link rel="stylesheet"  href="css/abcd.css">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<body>
+<div class="nav">
+<h2>T T</h2>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="#About">About Me</a></li>
+<li><a href="#Skills">My Skills</a></li>
+<li><a href="#Social">Social Skills</a></li>
+<li><a href="#Qualifications">Qualification</a></li>
+<li><a href="#footer">Contact me</a></li>
+</ul></div>
+<div class="intro">
+<div class="row">
+<div class="col-md-3">
+</div>
+<div class="col-md-2">
+<center><img src="G:\THAKUR\tarun\tar.jpg"></center>
+</div><div class="col-md-4">
+<h3>Tarun Thakur</h3>
+<h5>Web Developer and Designer</h5>
+<center>
+<a href="#About" style="color:blue">
+<div class="button">
+
+know more</div>
+<button type="button" class="btn btn-primary">primary</button>
+</div></a></center></div><div class=col-md-3"></div></div></div>
+<div class="aboutc">
+<div class="About" id="About">
+<h3>About Me</h3><p>
+Hello.I am Tarun Thakur,student of 2 year and I am pursuing Btech in Computer Science Engineering.Currently</p><p> 
+I am designing my portfolio.</p></div></div>
+<div class="skillc">
+<div class="Skills" id="Skills">
+<h3>My Skills</h3>
+
+<h5>ALL I Know</h5>
+<ol>
+<li>Web Development</li>
+<ul>
+<li>HTML<li>
+<li>CSS<li>
+<li>Js<li>
+</ul>
+<li>computer coding</li>
+<ul>tn-primary"
+<li>C</li>
+<li>C++</li>
+<li>Java</li>
+</ul></ol></div></div>
+<div class="Social" id="Social"> 
+<h3>Social links</h3>
+<h6>here i am</h6>
+<a href="https://www.facebook.com">facebook</a>
+<a href="https://www.twitter.com">twitter</a></div>
+
+<div class="Qualifications" id="Qualifications">
+<h3>My qualifications</h3>
+<h5>how qualified I am</h5>
+<table id="tab" border="2">
+<tr>
+<th>Year</th>
+<th>Qualification</th>
+<th>Institute/School</th>
+<th>Score</th></tr>
+<tr>
+<td>2015-2019</td>
+<td>btech</td>
+<td>DIT</td>
+<td>8.1</td>
+</tr><tr>
+<td>2015</td>
+<td>CBSE</td>
+<td>LPS,Delhi</td>
+<td>84%</td></tr><tr>
+<td>2013</td>
+<td>CBSE</td>
+<td>LPS,Delhi</td>
+<td>8.8</td></tr>
+</table></div>
+<br><br><br>
+<div class="footer" id="footer">
+<h6>To Contact Me  <a href="mailto:tarunthakur108@gmail.com">send me an email</a></h5>
+<h2>THANK YOU<h2>
+</div>
+</body>
+</html>
